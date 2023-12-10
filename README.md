@@ -17,6 +17,7 @@
     -データベース：MySQL
 
 ## テーブル設計
+[テーブル設計図](https://www.figma.com/file/1gelE72lFUJIAnKlUyOjC4/%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0?type=design&node-id=0%3A1&mode=design&t=ok85aCOB8F4cWA1r-1)
 
 ## ER図
 
